@@ -1,0 +1,2 @@
+npm i dotenv express multer mysql2 sequelize sequelize-cli
+npm i @babel/cli @babel/core @babel/node @babel/preset-env morgan nodemon -D
